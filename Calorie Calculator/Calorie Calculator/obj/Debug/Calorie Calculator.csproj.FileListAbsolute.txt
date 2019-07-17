@@ -1,0 +1,7 @@
+C:\Users\fahad\OneDrive\Desktop\C# Programs\Calorie Calculator\Calorie Calculator\bin\Debug\Calorie Calculator.exe.config
+C:\Users\fahad\OneDrive\Desktop\C# Programs\Calorie Calculator\Calorie Calculator\bin\Debug\Calorie Calculator.exe
+C:\Users\fahad\OneDrive\Desktop\C# Programs\Calorie Calculator\Calorie Calculator\bin\Debug\Calorie Calculator.pdb
+C:\Users\fahad\OneDrive\Desktop\C# Programs\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie Calculator.csprojAssemblyReference.cache
+C:\Users\fahad\OneDrive\Desktop\C# Programs\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie Calculator.csproj.CoreCompileInputs.cache
+C:\Users\fahad\OneDrive\Desktop\C# Programs\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie Calculator.exe
+C:\Users\fahad\OneDrive\Desktop\C# Programs\Calorie Calculator\Calorie Calculator\obj\Debug\Calorie Calculator.pdb
